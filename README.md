@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Veneet
-- 👀 I’m interested in becoming rich and sucessfull
-- 🌱 I’m currently learning c,c++,python
+- 🌱 I’m currently learning c,c++,python,javascript
 - 💞️ I’m looking to collaborate on c
 - 📫 How to reach me ,is through my gmail veneetkela@gmail.com
 
